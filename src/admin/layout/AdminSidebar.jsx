@@ -31,9 +31,8 @@ export function AdminSidebar() {
 
   return (
     <aside className="fixed left-0 top-0 h-screen w-64 bg-[#0a1628] text-white overflow-y-auto border-r border-[#1a2c47] flex flex-col z-20">
-      <div className="p-6 border-b border-[#1a2c47]">
-        <h1 className="text-xl font-bold text-[#cca830] tracking-wider uppercase">Srikara Hospitals</h1>
-        <p className="text-xs text-gray-400 mt-1 uppercase tracking-widest">Central Admin</p>
+      <div className="p-6 border-b border-[#1a2c47] flex justify-center">
+        <img src="/Srikara Hospitals, LB Nagar.png" alt="Srikara Logo" className="h-10 w-auto object-contain bg-white/90 p-1 rounded-lg" />
       </div>
 
       <nav className="flex-1 px-4 py-6 space-y-8">

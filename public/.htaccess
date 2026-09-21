@@ -1,0 +1,31 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  RewriteRule ^our-branches/?(.*)$ /branches [R=301,L]
+  RewriteRule ^find-a-doctors/?(.*)$ /doctors [R=301,L]
+  RewriteRule ^find-a-doctor/srikarahospitalmiyapur/?(.*)$ /branches/miyapur [R=301,L]
+  RewriteRule ^find-a-doctor/?(.*)$ /doctors [R=301,L]
+  RewriteRule ^specialities/pediatrics/?(.*)$ /specialties/pediatrics [R=301,L]
+  RewriteRule ^specialities/?(.*)$ /specialties [R=301,L]
+  RewriteRule ^medical-specialities/neurology/?(.*)$ /specialties/neurology [R=301,L]
+  RewriteRule ^medical-specialities/cardiology/?(.*)$ /specialties/cardiology [R=301,L]
+  RewriteRule ^medical-specialities/ent/?(.*)$ /specialties/ent [R=301,L]
+  RewriteRule ^medical-specialities/?(.*)$ /specialties [R=301,L]
+  RewriteRule ^about-us/?(.*)$ /about [R=301,L]
+  RewriteRule ^about-srikara-group/?(.*)$ /about [R=301,L]
+  RewriteRule ^srikara-hospitals-lakdikapul-2/?(.*)$ /branches/lakdikapul [R=301,L]
+  RewriteRule ^outreach-clinics/?(.*)$ /branches [R=301,L]
+  RewriteRule ^contact-us/?(.*)$ / [R=301,L]
+  RewriteRule ^contact-form/?(.*)$ / [R=301,L]
+  RewriteRule ^video-player/?(.*)$ / [R=301,L]
+  RewriteRule ^pricing-table/?(.*)$ / [R=301,L]
+  RewriteRule ^image(/.*)?$ / [R=301,L]
+  RewriteRule ^tariffs/?(.*)$ / [R=301,L]
+  RewriteRule ^pages/?(.*)$ / [R=301,L]
+
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
+</IfModule>

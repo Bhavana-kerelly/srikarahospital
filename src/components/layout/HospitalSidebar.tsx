@@ -66,13 +66,7 @@ export const HospitalSidebar: React.FC = () => {
       {/* Sidebar Header */}
       <div className="flex h-16 items-center px-6 border-b border-slate-200">
         <div className="flex items-center gap-2">
-          <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-accent">
-            <Building2 className="h-5 w-5 text-white" />
-          </div>
-          <div className="flex flex-col">
-            <span className="font-bold text-slate-900 leading-tight">SRIKARA</span>
-            <span className="text-[10px] font-semibold text-slate-500 tracking-wider uppercase leading-none">Hospital Portal</span>
-          </div>
+          <img src="/Srikara Hospitals, LB Nagar.png" alt="Srikara Logo" className="h-8 w-auto object-contain" />
         </div>
       </div>
       

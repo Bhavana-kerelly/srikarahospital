@@ -25,9 +25,7 @@ export function AdminLogin() {
 
       <div className="w-full max-w-md bg-white rounded-2xl shadow-2xl overflow-hidden z-10 border border-gray-100">
         <div className="p-8 pb-6 border-b border-gray-100 bg-gray-50 flex flex-col items-center text-center">
-          <div className="w-16 h-16 bg-[#0a1628] rounded-xl flex items-center justify-center shadow-md mb-4 border-b-4 border-[#cca830]">
-             <span className="text-3xl font-serif text-[#cca830] font-bold">S</span>
-          </div>
+          <img src="/Srikara Hospitals, LB Nagar.png" alt="Srikara Logo" className="h-16 w-auto mb-2 object-contain" />
           <h1 className="text-2xl font-bold text-gray-900 tracking-tight">Srikara Central Admin</h1>
           <p className="text-sm text-gray-500 font-medium mt-1 uppercase tracking-widest">Dialysis Network Management</p>
         </div>

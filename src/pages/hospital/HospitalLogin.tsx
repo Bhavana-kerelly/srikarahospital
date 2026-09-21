@@ -30,14 +30,9 @@ export const HospitalLogin: React.FC = () => {
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col justify-center py-12 sm:px-6 lg:px-8 font-sans">
       <div className="sm:mx-auto sm:w-full sm:max-w-md">
-        <div className="flex justify-center">
-          <div className="flex h-16 w-16 items-center justify-center rounded-2xl bg-primary shadow-lg shadow-primary/20">
-            <Building2 className="h-8 w-8 text-white" />
-          </div>
+        <div className="flex justify-center mt-4">
+          <img src="/Srikara Hospitals, LB Nagar.png" alt="Srikara Logo" className="h-16 w-auto mb-2 object-contain" />
         </div>
-        <h2 className="mt-6 text-center text-3xl font-bold tracking-tight text-slate-900">
-          Srikara Hospitals
-        </h2>
         <p className="mt-2 text-center text-sm text-slate-600">
           Internal Operations Portal
         </p>

@@ -1,0 +1,23 @@
+/our-branches/* /branches 301
+/find-a-doctors/* /doctors 301
+/find-a-doctor/srikarahospitalmiyapur/* /branches/miyapur 301
+/find-a-doctor/* /doctors 301
+/specialities/pediatrics/* /specialties/pediatrics 301
+/specialities/* /specialties 301
+/medical-specialities/neurology/* /specialties/neurology 301
+/medical-specialities/cardiology/* /specialties/cardiology 301
+/medical-specialities/ent/* /specialties/ent 301
+/medical-specialities/* /specialties 301
+/about-us/* /about 301
+/about-srikara-group/* /about 301
+/srikara-hospitals-lakdikapul-2/* /branches/lakdikapul 301
+/outreach-clinics/* /branches 301
+/contact-us/* / 301
+/contact-form/* / 301
+/video-player/* / 301
+/pricing-table/* / 301
+/image/* / 301
+/tariffs/* / 301
+/pages/* / 301
+
+/* /index.html 200

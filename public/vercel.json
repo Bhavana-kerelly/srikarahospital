@@ -1,0 +1,31 @@
+{
+  "redirects": [
+    { "source": "/our-branches(/?.*)", "destination": "/branches", "permanent": true },
+    { "source": "/find-a-doctors(/?.*)", "destination": "/doctors", "permanent": true },
+    { "source": "/find-a-doctor/srikarahospitalmiyapur(/?.*)", "destination": "/branches/miyapur", "permanent": true },
+    { "source": "/find-a-doctor(/?.*)", "destination": "/doctors", "permanent": true },
+    { "source": "/specialities/pediatrics(/?.*)", "destination": "/specialties/pediatrics", "permanent": true },
+    { "source": "/specialities(/?.*)", "destination": "/specialties", "permanent": true },
+    { "source": "/medical-specialities/neurology(/?.*)", "destination": "/specialties/neurology", "permanent": true },
+    { "source": "/medical-specialities/cardiology(/?.*)", "destination": "/specialties/cardiology", "permanent": true },
+    { "source": "/medical-specialities/ent(/?.*)", "destination": "/specialties/ent", "permanent": true },
+    { "source": "/medical-specialities(/?.*)", "destination": "/specialties", "permanent": true },
+    { "source": "/about-us(/?.*)", "destination": "/about", "permanent": true },
+    { "source": "/about-srikara-group(/?.*)", "destination": "/about", "permanent": true },
+    { "source": "/srikara-hospitals-lakdikapul-2(/?.*)", "destination": "/branches/lakdikapul", "permanent": true },
+    { "source": "/outreach-clinics(/?.*)", "destination": "/branches", "permanent": true },
+    { "source": "/contact-us(/?.*)", "destination": "/", "permanent": true },
+    { "source": "/contact-form(/?.*)", "destination": "/", "permanent": true },
+    { "source": "/video-player(/?.*)", "destination": "/", "permanent": true },
+    { "source": "/pricing-table(/?.*)", "destination": "/", "permanent": true },
+    { "source": "/image(/.*)?", "destination": "/", "permanent": true },
+    { "source": "/tariffs(/?.*)", "destination": "/", "permanent": true },
+    { "source": "/pages(/?.*)", "destination": "/", "permanent": true }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
