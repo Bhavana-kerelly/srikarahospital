@@ -4121,7 +4121,6 @@ export const DOCTOR_BLOGS = [
   
   
   
-,
   {
     id: 1789813592073,
     doctorSlug: 'anvesh-goud-ch',
@@ -5190,7 +5189,6 @@ export const DOCTOR_BLOGS = [
 <p>Taking care of your heart means managing both physical risk factors and emotional well-being—and seeking prompt medical attention whenever concerning symptoms occur.</p>
     `
   },
-,
   {
     id: 1789975622328,
     doctorSlug: 'pln-patel',
@@ -5261,7 +5259,6 @@ export const DOCTOR_BLOGS = [
 <p>Can You Have High BP Without Knowing It? The Silent Heart Risk Most People Ignore</p>\n<p>Imagine having a health condition that may damage your heart and blood vessels for years without causing any obvious symptoms.</p>\n<p>That is one of the biggest challenges of high blood pressure, or hypertension.</p>\n<p>According to the World Health Organization, an estimated 1.4 billion adults aged 30–79 worldwide had hypertension in 2024, and approximately 44% were unaware that they had the condition.</p>\n<p>This is why hypertension is often called a “silent” condition.</p>\n<h3>Why Doesn't High BP Always Cause Symptoms?</h3>\n<p>Many people expect high blood pressure to cause headaches, dizziness or other obvious warning signs. In reality, most people with hypertension do not feel anything unusual.</p>\n<p>A person can go about their daily routine, work, exercise and sleep normally while their blood pressure remains elevated.</p>\n<p>The absence of symptoms does not mean the blood pressure is normal.</p>\n<p>The most reliable way to know your blood pressure is to measure it.</p>\n<h3>What Happens When High BP Continues for Years?</h3>\n<p>Blood vessels are designed to handle blood flowing through them at an appropriate pressure. Persistently elevated pressure places additional stress on the cardiovascular system.</p>\n<p>Over time, uncontrolled hypertension can contribute to:</p>\n<ul><li>Coronary artery disease</li>\n<li>Heart attack</li>\n<li>Heart failure</li>\n<li>Stroke</li>\n<li>Kidney disease</li>\n<li>Other cardiovascular complications</li></ul>\n<p>The risk becomes particularly important when high blood pressure occurs together with diabetes, high cholesterol, smoking, obesity or other risk factors.</p>\n<h3>Who Is at Higher Risk?</h3>\n<p>Several factors can increase the likelihood of developing hypertension.</p>\n<p>These include:</p>\n<ul><li>Family history of high blood pressure</li>\n<li>Increasing age</li>\n<li>Excess body weight</li>\n<li>Physical inactivity</li>\n<li>High-salt diets</li>\n<li>Tobacco use</li>\n<li>Excessive alcohol consumption</li>\n<li>Diabetes or kidney disease</li></ul>\n<p>Some people can develop hypertension despite having a relatively healthy lifestyle because genetics and other medical conditions can also contribute.</p>\n<h3>How Can You Know If You Have High BP?</h3>\n<p>The answer is simple: measure it.</p>\n<p>Blood pressure can be checked at a clinic or, when appropriate, at home using a validated digital monitor.</p>\n<p>One isolated reading does not necessarily tell the entire story. Your doctor may recommend repeated measurements or home monitoring to understand your usual blood pressure pattern.</p>\n<p>If elevated readings continue, medical evaluation can help determine whether hypertension is present and whether further assessment is needed.</p>\n<h3>What Can Help Control Blood Pressure?</h3>\n<p>Lifestyle measures can play an important role.</p>\n<p>These may include:</p>\n<ul><li>Following a balanced, heart-friendly diet</li>\n<li>Reducing excessive salt intake</li>\n<li>Maintaining a healthy weight</li>\n<li>Staying physically active</li>\n<li>Avoiding tobacco</li>\n<li>Limiting alcohol</li>\n<li>Getting adequate sleep</li>\n<li>Managing stress</li></ul>\n<p>Some people will also require prescribed medication. Treatment should be individualized rather than based on someone else's prescription or blood pressure target.</p>\n<h3>When Is High BP an Emergency?</h3>\n<p>Very high blood pressure accompanied by symptoms such as severe headache, chest pain, difficulty breathing, confusion, vision changes or other serious symptoms requires urgent medical evaluation.</p>\n<p>Do not wait for symptoms to appear before taking routine blood pressure monitoring seriously.</p>\n<h3>Final Takeaway</h3>\n<p>High blood pressure can quietly affect the cardiovascular system without producing obvious symptoms.</p>\n<p>That is why knowing your numbers matters.</p>\n<p>Regular blood pressure checks, especially when you have risk factors, can help identify hypertension earlier and allow appropriate lifestyle changes and medical treatment when necessary.</p>\n<p>Your heart does not always send a warning before cardiovascular damage begins. Sometimes, the most important warning is simply the number on the BP monitor.</p>\n
     `
   },
-,
   {
     id: 1789975627129,
     doctorSlug: 'gopinath',
@@ -5332,7 +5329,6 @@ export const DOCTOR_BLOGS = [
 <h3>Can You Have High BP Without Any Symptoms? The Silent Risk</h3>\n<p>You can feel completely healthy and still have high blood pressure.</p>\n<p>That is one of the biggest challenges with hypertension. Unlike many illnesses that produce noticeable symptoms, high blood pressure often causes no warning signs, particularly in its early stages.</p>\n<p>This is why waiting for a headache, dizziness or other symptoms before checking your blood pressure can be misleading.</p>\n<h3>What Is High Blood Pressure?</h3>\n<p>Blood pressure measures the force of blood pushing against the walls of your blood vessels.</p>\n<p>When blood pressure remains persistently elevated, it can place additional strain on the heart and blood vessels.</p>\n<p>According to WHO, hypertension is diagnosed based on repeated measurements rather than a single reading. WHO defines hypertension as systolic blood pressure of 140 mmHg or higher and/or diastolic blood pressure of 90 mmHg or higher when measured on different days.</p>\n<p>Individual treatment targets can differ depending on a person's overall health and cardiovascular risk.</p>\n<h3>Why Can High BP Have No Symptoms?</h3>\n<p>Your body may adapt to gradually increasing blood pressure, meaning you may not notice anything unusual.</p>\n<p>You might continue working, exercising and going about your daily routine while your blood pressure remains elevated.</p>\n<p>This is why hypertension is often discovered during a routine health check, doctor visit or examination for another condition.</p>\n<h3>What Happens If High BP Is Ignored?</h3>\n<p>Untreated hypertension can increase the risk of several health problems, including:</p>\n<ul><li>Heart disease</li>\n<li>Stroke</li>\n<li>Kidney disease</li>\n<li>Damage to blood vessels</li>\n<li>Other cardiovascular complications</li></ul>\n<p>The risk generally increases when blood pressure remains uncontrolled over time.</p>\n<h3>Does Headache Always Mean High BP?</h3>\n<p>Not necessarily.</p>\n<p>Headaches can have many causes, and most headaches do not mean that a person has hypertension.</p>\n<p>Similarly, having no headache does not mean your blood pressure is normal.</p>\n<p>The most reliable way to know your blood pressure is to measure it accurately.</p>\n<h3>Who Should Check Their Blood Pressure?</h3>\n<p>Regular blood pressure checks are particularly important for adults and people with risk factors such as:</p>\n<ul><li>Family history of hypertension</li>\n<li>Overweight or obesity</li>\n<li>Physical inactivity</li>\n<li>High-salt diet</li>\n<li>Tobacco use</li>\n<li>Excessive alcohol consumption</li>\n<li>Diabetes</li>\n<li>Kidney disease</li></ul>\n<p>People with an existing diagnosis of hypertension should follow their healthcare provider's recommended monitoring schedule.</p>\n<h3>What Can You Do to Protect Your Blood Pressure?</h3>\n<p>Healthy lifestyle habits can support blood pressure control.</p>\n<p>These include maintaining a healthy weight, being physically active, eating a balanced diet with appropriate salt intake, avoiding tobacco and limiting alcohol.</p>\n<p>If a doctor has prescribed blood pressure medication, it should be taken according to the prescribed plan rather than stopped simply because you feel well.</p>\n<h3>When Is High BP an Emergency?</h3>\n<p>Very high blood pressure accompanied by symptoms such as severe headache, chest pain, difficulty breathing, confusion, vision changes or other serious symptoms requires immediate medical assessment. WHO notes that very high blood pressure, particularly around 180/120 mmHg or higher, can be associated with serious symptoms and requires urgent care.</p>\n<h3>The Bottom Line</h3>\n<p>Feeling normal does not necessarily mean your blood pressure is normal.</p>\n<p>High BP can remain silent for years while increasing the risk of heart, brain and kidney complications. Regular measurement is therefore much more useful than waiting for symptoms.</p>\n<p>If you haven't checked your blood pressure recently, consider discussing routine monitoring with a General Medicine physician—especially if you have risk factors for hypertension.</p>\n<p>Medical Disclaimer: Blood pressure interpretation depends on repeated, properly performed measurements and individual health factors. This article is for general education and does not replace medical advice.</p>\n
     `
   },
-,
   {
     id: 1789975631951,
     doctorSlug: 'pankaj-kumar',
@@ -5403,7 +5399,6 @@ export const DOCTOR_BLOGS = [
 <p>Appendicitis or Gas? 7 Warning Signs You Should Never Ignore</p>\n<p>Stomach pain is extremely common. Gas, indigestion and constipation can all cause abdominal discomfort.</p>\n<p>But sometimes abdominal pain can be an early sign of appendicitis, a condition that may require urgent medical treatment.</p>\n<p>Because the symptoms can initially overlap, knowing the warning signs is important.</p>\n<h3>What Is Appendicitis?</h3>\n<p>Appendicitis occurs when the appendix becomes inflamed.</p>\n<p>It can cause abdominal pain that often begins around the belly button and may later move toward the lower-right side of the abdomen.</p>\n<p>However, not every person experiences the classic pattern.</p>\n<p>1. Pain That Becomes More Severe</p>\n<p>Gas-related discomfort may come and go, while appendicitis pain often becomes progressively more significant.</p>\n<p>Pain that continues to worsen rather than settling should receive medical attention.</p>\n<p>2. Pain Moving to the Lower Right Abdomen</p>\n<p>One classic pattern of appendicitis is pain that begins near the belly button and then moves toward the lower-right abdomen.</p>\n<p>Pain in this area does not automatically mean appendicitis, but it is an important symptom that requires assessment when combined with other warning signs.</p>\n<p>3. Loss of Appetite</p>\n<p>A sudden loss of appetite can occur with appendicitis.</p>\n<p>If you have abdominal pain together with significant loss of appetite, nausea or other symptoms, it should not simply be dismissed as gas.</p>\n<p>4. Nausea or Vomiting</p>\n<p>Nausea and vomiting can occur with appendicitis.</p>\n<p>They can also occur with many other digestive conditions, so they must be interpreted alongside the overall symptom pattern.</p>\n<p>5. Fever</p>\n<p>Fever may occur as inflammation progresses.</p>\n<p>Abdominal pain accompanied by fever should be medically evaluated, particularly when the pain is worsening or localized.</p>\n<p>6. Pain That Gets Worse With Movement</p>\n<p>Some people with appendicitis experience increased abdominal pain when walking, coughing or moving.</p>\n<p>This occurs because movement can irritate an inflamed abdominal lining.</p>\n<p>7. Persistent Abdominal Pain</p>\n<p>One of the most important warning signs is pain that does not improve.</p>\n<p>If abdominal pain continues, becomes increasingly severe or is accompanied by vomiting, fever or significant weakness, medical assessment should not be delayed.</p>\n<h3>Why Is Early Diagnosis Important?</h3>\n<p>Untreated appendicitis can progress and may lead to complications such as perforation, abscess or infection of the abdominal cavity.</p>\n<p>This is why suspected appendicitis should be evaluated promptly rather than treated as ordinary gas at home.</p>\n<h3>How Is Appendicitis Diagnosed?</h3>\n<p>A doctor may assess:</p>\n<ul><li>Location and nature of pain</li>\n<li>Medical history</li>\n<li>Abdominal examination</li>\n<li>Blood tests</li>\n<li>Ultrasound</li>\n<li>CT scan when appropriate</li></ul>\n<p>The choice of investigation depends on the patient's age, symptoms and clinical findings.</p>\n<h3>Does Appendicitis Always Require Surgery?</h3>\n<p>When appendicitis is confirmed, treatment depends on the individual clinical situation.</p>\n<p>Appendectomy, or surgical removal of the appendix, is a common treatment. In selected cases, antibiotics may also have a role, depending on the type and severity of appendicitis and the treating team's assessment.</p>\n<p>If surgery is recommended, laparoscopic appendectomy may be an option for many patients.</p>\n<h3>What Is Laparoscopic Appendectomy?</h3>\n<p>Laparoscopic appendectomy uses small incisions, a camera and specialized surgical instruments to remove the inflamed appendix.</p>\n<p>The approach is widely used and can offer advantages such as smaller incisions compared with traditional open surgery, although the appropriate surgical approach depends on the patient's condition.</p>\n<h3>The Takeaway</h3>\n<p>Not every stomach ache is appendicitis, and not every abdominal symptom is simply gas.</p>\n<p>Persistent or worsening abdominal pain—especially when associated with fever, vomiting, loss of appetite or pain moving toward the lower-right abdomen—should be evaluated promptly.</p>\n<p>If appendicitis is suspected, avoid delaying medical care while waiting for the symptoms to disappear.</p>\n<p>Early assessment allows doctors to determine whether the pain is due to appendicitis, gas, gallbladder disease or another abdominal condition and choose the appropriate treatment.</p>\n
     `
   },
-,
   {
     id: 1789975636569,
     doctorSlug: 'thanuja-peddireddla',
@@ -5474,7 +5469,6 @@ export const DOCTOR_BLOGS = [
 <p>Sleep Apnea: 7 Signs You May Have a Breathing Problem While Sleeping</p>\n<p>You may think that sleep is the time when your body simply switches off and rests.</p>\n<p>But for some people, breathing repeatedly becomes interrupted during sleep.</p>\n<p>This can happen with sleep apnea, a condition in which breathing stops or becomes significantly reduced during sleep. The most common form in adults is obstructive sleep apnea, caused by repeated narrowing or blockage of the upper airway.</p>\n<p>The person may not even realize that these breathing interruptions are happening.</p>\n<p>7 Signs You May Have Sleep Apnea</p>\n<p>1. Loud, Persistent Snoring</p>\n<p>Loud snoring is one of the most recognizable signs associated with obstructive sleep apnea.</p>\n<p>However, snoring alone does not mean that you have sleep apnea.</p>\n<p>2. Pauses in Breathing During Sleep</p>\n<p>A partner or family member may notice that you stop breathing briefly and then resume with a gasp or snort.</p>\n<p>This is an important reason to seek medical evaluation.</p>\n<p>3. Gasping or Choking at Night</p>\n<p>Some people wake suddenly feeling as though they are choking or struggling to breathe.</p>\n<p>Others may not fully wake up but may have repeated breathing interruptions throughout the night.</p>\n<p>4. Excessive Daytime Sleepiness</p>\n<p>Even after spending enough time in bed, you may feel unusually sleepy during the day.</p>\n<p>You might struggle to stay alert while working, watching television or travelling as a passenger.</p>\n<p>This can affect concentration and daily functioning.</p>\n<p>5. Morning Headaches</p>\n<p>Some people with sleep apnea report waking with headaches.</p>\n<p>Morning headaches can have many possible causes, so they should not automatically be attributed to sleep apnea. However, when combined with loud snoring and daytime sleepiness, they may warrant further evaluation.</p>\n<p>6. Difficulty Concentrating</p>\n<p>Poor-quality sleep can affect attention, concentration, memory and mood.</p>\n<p>A person may notice that they are becoming less productive or mentally alert during the day.</p>\n<p>7. Waking With a Dry Mouth or Sore Throat</p>\n<p>Breathing through the mouth during sleep can contribute to morning dry mouth or throat discomfort.</p>\n<p>Again, this symptom alone does not diagnose sleep apnea, but it may be relevant when several symptoms occur together.</p>\n<h3>Why Does Sleep Apnea Matter?</h3>\n<p>Sleep apnea can repeatedly interrupt normal sleep and breathing.</p>\n<p>Over time, untreated sleep apnea can affect daytime alertness and is associated with cardiovascular and metabolic health problems.</p>\n<p>It may also increase the risk of accidents if excessive daytime sleepiness affects driving or operating machinery.</p>\n<h3>Who Should Get Evaluated?</h3>\n<p>Consider speaking with a healthcare professional if you have:</p>\n<ul><li>Loud habitual snoring</li>\n<li>Witnessed pauses in breathing</li>\n<li>Night-time choking or gasping</li>\n<li>Excessive daytime sleepiness</li>\n<li>Morning headaches</li>\n<li>Poor concentration</li>\n<li>Persistent sleep-related symptoms</li></ul>\n<p>People with obesity, hypertension or certain airway characteristics may have additional risk factors, but sleep apnea can occur in people without these factors as well.</p>\n<h3>How Is Sleep Apnea Confirmed?</h3>\n<p>A sleep study is commonly used to evaluate sleep-related breathing disorders.</p>\n<p>The test records information about breathing and other body functions during sleep. Depending on the situation, it may be conducted at home or in a sleep laboratory.</p>\n<p>Your pulmonologist or sleep specialist can recommend the appropriate type of evaluation based on your symptoms and risk factors.</p>\n<h3>The Bottom Line</h3>\n<p>Sleep apnea doesn't always announce itself.</p>\n<p>You may simply believe that you snore, sleep poorly or feel tired because of a busy lifestyle. But repeated breathing interruptions during sleep deserve attention.</p>\n<p>If you or your partner notice loud snoring, pauses in breathing, gasping or excessive daytime sleepiness, consider consulting a Consultant Pulmonologist.</p>\n<p>Identifying the problem is the first step toward appropriate evaluation and treatment.</p>\n<p>Medical Disclaimer: This article is intended for general health education and does not replace a professional medical consultation or sleep evaluation.</p>\n
     `
   },
-,
   {
     id: 1789998362524,
     doctorSlug: 'viswa-sundeep',
@@ -5545,4 +5539,253 @@ export const DOCTOR_BLOGS = [
 <h3>Back Pain vs Nerve Pain: How Can You Tell the Difference?</h3>\n<p>Back pain is extremely common, but not all back pain feels the same.</p>\n<p>Sometimes the discomfort stays around the lower back. In other cases, pain travels into the buttock, thigh, leg or even the foot. You may also experience tingling, numbness or weakness.</p>\n<p>These differences can provide clues about whether the pain is primarily coming from muscles and other local structures or whether a nerve may be irritated or compressed.</p>\n<h3>What Does Typical Mechanical Back Pain Feel Like?</h3>\n<p>Mechanical or musculoskeletal back pain can occur after activities such as lifting, bending, prolonged sitting, sudden movement or physical exertion.</p>\n<p>It may feel like:</p>\n<ul><li>Aching</li>\n<li>Stiffness</li>\n<li>Soreness</li>\n<li>Localized discomfort</li>\n<li>Pain that changes with movement or position</li></ul>\n<p>The pain is often concentrated around the lower back and may improve with appropriate rest and gradual return to activity.</p>\n<p>However, symptoms can overlap, so the sensation alone cannot establish a diagnosis.</p>\n<h3>What Does Nerve Pain Feel Like?</h3>\n<p>Nerve-related pain can feel different.</p>\n<p>People may describe it as:</p>\n<ul><li>Burning</li>\n<li>Electric-shock-like</li>\n<li>Shooting</li>\n<li>Tingling</li>\n<li>Pins and needles</li>\n<li>Numbness</li></ul>\n<p>Instead of remaining in the back, the pain may travel along the path of a nerve.</p>\n<p>For example, irritation of a nerve in the lower spine can cause pain that travels from the lower back into the buttock and down the leg.</p>\n<p>This is commonly associated with sciatica.</p>\n<h3>Is Numbness Always a Sign of a Nerve Problem?</h3>\n<p>Numbness or tingling can suggest nerve involvement, particularly when it follows a specific area of the arm or leg.</p>\n<p>However, several conditions can cause numbness, including nerve compression outside the spine, circulation problems, metabolic conditions and nutritional deficiencies.</p>\n<p>Therefore, persistent numbness should be evaluated rather than automatically attributed to a slipped disc.</p>\n<h3>What About Weakness?</h3>\n<p>Weakness is particularly important.</p>\n<p>Pain can make a person feel as though they are weaker because movement hurts. True neurological weakness is different.</p>\n<p>For example, a person may suddenly have difficulty lifting the front of their foot, repeatedly trip while walking, or notice that their grip is becoming weaker.</p>\n<p>Progressive or significant weakness requires prompt medical evaluation.</p>\n<h3>Why Can a Disc Cause Nerve Pain?</h3>\n<p>Spinal discs sit between the vertebrae and help absorb movement.</p>\n<p>If part of a disc bulges or protrudes and irritates a nearby nerve, symptoms may travel away from the back and into the limb.</p>\n<p>However, not every disc bulge causes symptoms, and not every person with a disc abnormality requires surgery.</p>\n<p>Doctors interpret MRI findings alongside the person's symptoms and neurological examination.</p>\n<h3>Can Spinal Stenosis Cause Nerve Pain?</h3>\n<p>Yes.</p>\n<p>Spinal stenosis occurs when spaces around the spinal cord or nerves become narrowed.</p>\n<p>In the lower back, this may cause pain, numbness, heaviness or weakness in the legs, particularly during standing or walking.</p>\n<p>Some people find relief when sitting or bending forward.</p>\n<h3>When Should You Seek Medical Attention?</h3>\n<p>Back pain accompanied by persistent numbness, tingling or weakness deserves medical assessment.</p>\n<p>Seek urgent medical attention if you develop:</p>\n<ul><li>Sudden or worsening leg weakness</li>\n<li>Significant difficulty walking</li>\n<li>Loss of bladder or bowel control</li>\n<li>Numbness around the groin or inner thighs</li>\n<li>Severe symptoms following a significant injury</li></ul>\n<p>These symptoms may indicate significant nerve compression and should not be ignored.</p>\n<h3>Does Nerve Pain Always Need Surgery?</h3>\n<p>No.</p>\n<p>Many nerve-related conditions can improve with non-surgical management depending on the underlying cause and severity.</p>\n<p>Treatment may include activity modification, physiotherapy, medication prescribed by a doctor and other appropriate approaches.</p>\n<p>Surgery may be considered in selected cases, particularly when there is significant or progressive neurological weakness, severe persistent symptoms or specific forms of nerve compression.</p>\n<h3>When Should You Consult a Neurosurgeon?</h3>\n<p>If you cannot determine whether your pain is muscular or nerve-related, particularly when symptoms persist or affect your daily activities, a Consultant Neurosurgeon can perform a neurological and spinal assessment.</p>\n<p>The goal is to identify the source of the symptoms and determine whether further imaging or treatment is necessary.</p>\n<h3>Final Thoughts</h3>\n<p>The location and character of your pain can provide useful clues, but they cannot replace a medical examination.</p>\n<p>Localized aching and stiffness may have a different cause from burning, shooting pain accompanied by numbness or weakness.</p>\n<p>If your back pain is persistent, travels into your arm or leg, or is accompanied by neurological symptoms, seek professional evaluation rather than repeatedly treating the pain without identifying its cause.</p>\n<p>Disclaimer: This article is for general educational purposes and does not substitute for professional medical diagnosis or treatment.</p>\n
     `
   },
+,
+  {
+    id: 1790055176944,
+    doctorSlug: 'sravan-reddy-p',
+    slug: 'urinary-tract-infection-uti-in-men-and-women-sympt',
+    title: `Urinary Tract Infection (UTI) in Men and Women: Symptoms, Causes, Diagnosis and Treatment`,
+    excerpt: `Urinary tract infections (UTIs) are common infections affecting the urinary system, including the bladder, urethra, ureters, and kidneys. Although UTIs are usually treatable, delaying medical care can allow an infection to spread to the kidneys and cause more serious complications.`,
+    category: 'Urology',
+    date: '18 Sep 2026',
+    readTime: '4 min read',
+    image: '/images/doctor-blogs/p-sravan-reddy-blog-1.jpg',
+    content: `
+<p>Urinary tract infections (UTIs) are common infections affecting the urinary system, including the bladder, urethra, ureters, and kidneys. Although UTIs are usually treatable, delaying medical care can allow an infection to spread to the kidneys and cause more serious complications.</p>
+<p>Understanding UTI symptoms, causes, risk factors, diagnosis, treatment, and prevention can help patients recognize warning signs and seek timely medical attention.</p>
+<p>Dr. Sravan Reddy P – MBBS, DNB (General Surgery), MCh (Urology), Consultant Urologist, provides specialist evaluation and management of urinary tract infections and other urological conditions.</p>
+<h3>What Is a UTI?</h3>
+<p>A urinary tract infection develops when microorganisms, most commonly bacteria, enter and multiply within the urinary system. Most infections affect the lower urinary tract, particularly the bladder and urethra. When the infection reaches the kidneys, it may cause a more serious condition called pyelonephritis.</p>
+<p>Women experience UTIs more frequently than men because the female urethra is shorter. However, men can also develop UTIs, particularly when prostate enlargement, urinary obstruction, stones, or incomplete bladder emptying is present.</p>
+<h3>Common Symptoms of UTI</h3>
+<p>UTI symptoms depend on the location and severity of infection. Common symptoms include:</p>
+<h3>* Burning or pain during urination</h3>
+<h3>* Frequent urination</h3>
+<h3>* Sudden urinary urgency</h3>
+<h3>* Passing small amounts of urine</h3>
+<h3>* Lower abdominal discomfort</h3>
+<h3>* Cloudy or strong-smelling urine</h3>
+<h3>* Blood in the urine</h3>
+<p>When an infection affects the kidneys, symptoms may include fever, chills, side or back pain, nausea, and vomiting. These symptoms require prompt medical evaluation.</p>
+<h3>Causes and Risk Factors</h3>
+<p>UTIs commonly occur when bacteria enter through the urethra and multiply. Risk factors can include inadequate fluid intake, incomplete bladder emptying, urinary stones, prostate enlargement, catheter use, pregnancy, urinary tract abnormalities, and certain medical conditions.</p>
+<p>Sexual activity may increase UTI risk in some women. In men, infections may be associated with prostate problems or urinary obstruction. Recurrent infections should therefore be medically evaluated rather than repeatedly treated through self-medication.</p>
+<h3>UTI in Women and Men</h3>
+<p>Women may experience recurrent UTIs due to anatomical and hormonal factors. Pregnancy and menopause can also influence urinary health. Repeated infections should be assessed to identify possible underlying causes.</p>
+<p>UTIs are less common in men, but when they occur, evaluation is important because prostate enlargement, urinary obstruction, kidney stones, or other urological conditions may contribute. Symptoms can include burning urination, frequency, pelvic discomfort, difficulty urinating, fever, or blood in urine.</p>
+<h3>How Is a UTI Diagnosed?</h3>
+<p>Diagnosis generally begins with medical history and examination. A urine test can identify signs of infection, while a urine culture may identify the responsible bacteria and help guide antibiotic selection.</p>
+<p>Patients with recurrent infections, severe symptoms, stones, or urinary obstruction may require additional investigations. Depending on the situation, these can include blood tests, ultrasound, CT imaging, or other urological evaluations.</p>
+<h3>UTI Treatment</h3>
+<p>Treatment depends on the location and severity of infection and the patient's overall health. Bacterial UTIs are commonly treated with antibiotics prescribed by a healthcare professional. Antibiotic selection may depend on symptoms, culture results, allergies, previous infections, and other medical factors.</p>
+<p>Patients should complete antibiotics as prescribed and avoid using leftover medicines or someone else's medication. Adequate hydration may support recovery unless fluid restriction has been advised for another medical condition.</p>
+<h3>Why Self-Medication Can Be Risky</h3>
+<p>Burning during urination does not always mean a UTI. Kidney stones, prostate conditions, sexually transmitted infections, and other urinary disorders can cause similar symptoms. Unnecessary antibiotic use may also contribute to antibiotic resistance. Persistent or recurrent symptoms should be properly evaluated.</p>
+<h3>Preventing UTIs</h3>
+<p>Drinking adequate fluids, avoiding unnecessary delays in urination, maintaining good personal hygiene, and managing underlying urinary problems may help reduce UTI risk. Women may be advised to wipe from front to back after using the toilet.</p>
+<p>People experiencing recurrent UTIs should discuss preventive strategies with a healthcare professional instead of repeatedly self-treating infections.</p>
+<h3>When Should You See a Urologist?</h3>
+<p>Seek medical evaluation for persistent, recurrent, or severe urinary symptoms. Prompt attention is particularly important for high fever, chills, severe back or side pain, vomiting, blood in urine, difficulty passing urine, significant weakness, or confusion.</p>
+<h3>Conclusion</h3>
+<p>UTIs are common and usually treatable, but persistent or recurrent infections should not be ignored. Early diagnosis can help prevent complications, identify underlying urinary problems, and guide appropriate treatment.</p>
+<p>If you experience burning urination, frequent urgency, blood in urine, fever, back pain, or recurring infections, seek professional urological evaluation. Timely care can help relieve symptoms, prevent complications, and protect your long-term urinary health.</p>
+
+    `,
+  },
+  {
+    id: 1790055176945,
+    doctorSlug: 'sravan-reddy-p',
+    slug: 'kidney-stones-causes-symptoms-diagnosis-treatment-',
+    title: `Kidney Stones: Causes, Symptoms, Diagnosis, Treatment and Prevention`,
+    excerpt: `Kidney stones are hard, crystal-like deposits that develop inside the kidneys when certain minerals and salts in urine become concentrated and form crystals. Stones can range from tiny particles to larger deposits that may obstruct the urinary tract. Some kidney stones pass naturally without causing major problems, while others can cause severe pain, urinary symptoms, or complications.`,
+    category: 'Urology',
+    date: '19 Sep 2026',
+    readTime: '4 min read',
+    image: '/images/doctor-blogs/p-sravan-reddy-blog-2.jpg',
+    content: `
+<p>Kidney stones are hard, crystal-like deposits that develop inside the kidneys when certain minerals and salts in urine become concentrated and form crystals. Stones can range from tiny particles to larger deposits that may obstruct the urinary tract. Some kidney stones pass naturally without causing major problems, while others can cause severe pain, urinary symptoms, or complications.</p>
+<p>Kidney stones can develop in people of different ages and may recur after a previous episode. Understanding their causes, symptoms, diagnosis, treatment, and prevention can help reduce complications and the risk of recurrence.</p>
+<p>Dr. Sravan Reddy P – MBBS, DNB (General Surgery), MCh (Urology), Consultant Urologist, provides specialist evaluation and treatment for kidney stones and other urinary conditions.</p>
+<h3>What Are Kidney Stones?</h3>
+<p>Kidney stones are solid deposits formed from substances normally present in urine. Calcium-based stones are the most common, while other types include uric acid, struvite, and cystine stones.</p>
+<p>A small stone may remain in the kidney without symptoms or pass through the urinary tract naturally. When a stone moves into the ureter, it can cause severe pain known as renal colic. Larger stones may become lodged and interfere with normal urine flow.</p>
+<h3>Common Symptoms of Kidney Stones</h3>
+<p>Symptoms depend on the stone’s size, location, and whether it causes obstruction. Common symptoms include:</p>
+<h3>* Severe pain in the side or back</h3>
+<h3>* Pain spreading toward the lower abdomen or groin</h3>
+<h3>* Pain occurring in waves</h3>
+<h3>* Burning during urination</h3>
+<h3>* Frequent urge to urinate</h3>
+<h3>* Blood in urine</h3>
+<h3>* Nausea or vomiting</h3>
+<h3>* Cloudy or foul-smelling urine</h3>
+<p>Fever and chills with suspected urinary obstruction may indicate infection and require urgent medical attention.</p>
+<h3>Causes and Risk Factors</h3>
+<p>Kidney stones develop when urine contains high levels of substances that can form crystals. Dehydration is an important contributing factor because insufficient fluid intake makes urine more concentrated.</p>
+<p>Other risk factors include high salt intake, certain dietary patterns, obesity, family history, metabolic conditions, recurrent urinary infections, digestive disorders, and some medications. People who have previously developed kidney stones may have a greater risk of recurrence. Hot climates can also increase risk when sweating causes fluid loss without adequate replacement.</p>
+<h3>How Are Kidney Stones Diagnosed?</h3>
+<p>Diagnosis usually begins with medical history and physical examination. Urine tests may identify blood, infection, or other abnormalities. Blood tests can help assess kidney function and certain metabolic factors.</p>
+<p>Imaging is important for determining the stone’s size and location. Ultrasound can identify many stones and signs of urinary obstruction. CT imaging may be recommended in selected cases when more detailed information is needed. The appropriate tests depend on symptoms and individual circumstances.</p>
+<h3>Treatment Options</h3>
+<p>Treatment depends on the stone’s size, location, composition, symptoms, obstruction, infection, and overall health.</p>
+<p>Very small stones may pass naturally with appropriate medical management. Medicines may be prescribed to control pain and, in selected cases, assist stone passage.</p>
+<p>Larger stones or stones causing persistent obstruction may require procedures. Modern urological treatments can include ureteroscopy, laser stone fragmentation, extracorporeal shock wave lithotripsy, and percutaneous procedures for selected large or complex stones.</p>
+<h3>When Is Treatment Urgent?</h3>
+<p>A blocked urinary tract combined with infection can become a serious medical emergency. Seek urgent medical care if suspected kidney stones are accompanied by fever, chills, severe weakness, persistent vomiting, difficulty passing urine, or severe uncontrolled pain.</p>
+<h3>Kidney Stone Prevention</h3>
+<p>Adequate hydration is one of the most important preventive measures for many patients. Drinking sufficient water throughout the day helps keep urine diluted. Reducing excessive salt intake, maintaining a healthy weight, and following a balanced diet may also lower the risk.</p>
+<p>For people with recurrent stones, metabolic evaluation and stone analysis can help identify the stone type and guide individualized dietary and preventive recommendations.</p>
+<h3>Why Follow-Up Matters</h3>
+<p>Passing a kidney stone does not always mean the problem is permanently resolved. Stones can recur, so follow-up may be useful for identifying contributing factors and developing preventive strategies. Depending on individual circumstances, doctors may recommend urine tests, blood investigations, imaging, or stone analysis.</p>
+<h3>When Should You Consult a Urologist?</h3>
+<p>Urological evaluation is recommended for severe flank pain, blood in urine, recurrent urinary symptoms, difficulty passing urine, or suspected kidney stones. Fever with suspected stones requires urgent attention because infection and urinary obstruction together can be dangerous.</p>
+<h3>Conclusion</h3>
+<p>Kidney stones can range from small deposits that pass naturally to larger stones requiring minimally invasive treatment. Early diagnosis helps determine the appropriate management approach. Adequate hydration, balanced nutrition, healthy lifestyle habits, and appropriate follow-up can help reduce recurrence.</p>
+<p>If you experience severe flank pain, blood in urine, fever, vomiting, or difficulty passing urine, seek medical attention promptly for proper evaluation and treatment.</p>
+
+    `,
+  },
+  {
+    id: 1790055176946,
+    doctorSlug: 'sravan-reddy-p',
+    slug: 'prostate-enlargement-bph-symptoms-causes-modern-tr',
+    title: `Prostate Enlargement (BPH): Symptoms, Causes & Modern Treatment Options`,
+    excerpt: `Benign Prostatic Hyperplasia (BPH), commonly called prostate enlargement, is a non-cancerous condition that becomes more common as men age. The prostate surrounds part of the urethra, so enlargement can narrow the urinary passage and affect normal urine flow. Although BPH is not prostate cancer, persistent or worsening urinary symptoms should be evaluated by a urologist because similar symptoms can occur with other prostate and urinary conditions.`,
+    category: 'Urology',
+    date: '110 Sep 2026',
+    readTime: '4 min read',
+    image: '/images/doctor-blogs/p-sravan-reddy-blog-3.jpg',
+    content: `
+<p>Benign Prostatic Hyperplasia (BPH), commonly called prostate enlargement, is a non-cancerous condition that becomes more common as men age. The prostate surrounds part of the urethra, so enlargement can narrow the urinary passage and affect normal urine flow. Although BPH is not prostate cancer, persistent or worsening urinary symptoms should be evaluated by a urologist because similar symptoms can occur with other prostate and urinary conditions.</p>
+<p>Dr. Sravan Reddy P, MBBS, DNB (General Surgery), MCh (Urology), Consultant Urologist, provides specialist evaluation and management for prostate-related and other urological conditions.</p>
+<h3>What Is Prostate Enlargement?</h3>
+<p>The prostate is a gland located below the bladder and surrounding part of the urethra. With age-related changes, prostate tissue may gradually increase in size and place pressure on the urinary passage. This can make it difficult for the bladder to empty completely.</p>
+<p>Not every man with an enlarged prostate experiences troublesome symptoms. Treatment depends on the severity of symptoms, quality of life, prostate characteristics, complications, and overall health.</p>
+<h3>Common Symptoms of BPH</h3>
+<h3>An enlarged prostate may cause several lower urinary tract symptoms, including:</h3>
+<h3>* Frequent urination</h3>
+<h3>* Increased nighttime urination</h3>
+<h3>* Sudden urinary urgency</h3>
+<h3>* Difficulty starting urination</h3>
+<h3>* Weak or slow urine stream</h3>
+<h3>* Interrupted urine flow</h3>
+<h3>* Straining while urinating</h3>
+<h3>* Feeling of incomplete bladder emptying</h3>
+<h3>* Dribbling after urination</h3>
+<p>Symptoms often develop gradually and may initially seem mild. However, they can progressively interfere with sleep, daily activities, travel, and overall quality of life.</p>
+<h3>Why Does the Prostate Enlarge?</h3>
+<p>BPH is mainly associated with aging and age-related hormonal changes. The biological processes involved are complex, and the likelihood of prostate enlargement increases with age. An enlarged prostate does not automatically require treatment. Doctors consider symptoms, examination findings, bladder function, prostate characteristics, and possible complications before recommending management.</p>
+<h3>Possible Complications</h3>
+<p>When prostate enlargement significantly obstructs urine flow, complications may develop. These can include recurrent urinary tract infections, bladder stones, urinary retention, changes in bladder function, and, in severe cases, kidney problems.</p>
+<p>Sudden inability to pass urine requires prompt medical attention.</p>
+<h3>How Is BPH Diagnosed?</h3>
+<p>A urologist may assess urinary symptoms, medical history, medications, and overall health. Depending on the patient's condition, evaluation may include physical examination, urine testing, blood tests, PSA testing, ultrasound, or other investigations.</p>
+<p>Ultrasound may help assess prostate size, bladder emptying, and the urinary tract. PSA testing is considered based on age, symptoms, risk factors, and discussion between the patient and doctor. The tests required vary according to individual circumstances.</p>
+<h3>Modern BPH Treatment Options</h3>
+<p>Treatment is personalized according to symptom severity, prostate size, complications, and overall health.</p>
+<h3>Lifestyle Changes and Monitoring</h3>
+<p>Men with mild symptoms may benefit from monitoring and lifestyle measures. These can include reducing fluids close to bedtime, limiting excessive caffeine or other bladder irritants, maintaining a healthy weight, staying physically active, and discussing medicines that may worsen urinary symptoms with a doctor.</p>
+<h3>Medications</h3>
+<p>Medications may be recommended when symptoms require treatment. Depending on the individual's condition, medicines can help relax the prostate and bladder neck or reduce prostate size. The choice of medication depends on symptoms, prostate characteristics, other medical conditions, and potential side effects.</p>
+<h3>Minimally Invasive and Surgical Procedures</h3>
+<p>If medication does not provide sufficient relief or complications develop, minimally invasive or surgical procedures may be considered. The appropriate treatment depends on prostate size, urinary obstruction, symptoms, overall health, and individual circumstances. A urologist can explain suitable options, potential benefits, and possible risks.</p>
+<h3>BPH vs Prostate Cancer</h3>
+<p>BPH is not prostate cancer, and an enlarged prostate does not mean cancer is present. However, both conditions can occur in the same person, and some urinary symptoms may overlap. Persistent or changing urinary symptoms should therefore be evaluated appropriately.</p>
+<h3>When Should You See a Urologist?</h3>
+<p>A urological evaluation is recommended when symptoms persist, gradually worsen, disturb sleep, affect daily activities, or cause difficulty emptying the bladder. Prompt medical attention is particularly important for complete inability to urinate, blood in urine, recurrent urinary infections, severe lower abdominal discomfort, or significant worsening of symptoms.</p>
+<h3>Conclusion</h3>
+<p>Prostate enlargement is a common age-related condition, but troublesome urinary symptoms should not simply be accepted as a normal part of aging. Weak urine flow, frequent nighttime urination, difficulty starting urination, urgency, or incomplete bladder emptying may require evaluation.</p>
+<p>Early assessment can identify the cause of urinary symptoms and determine whether monitoring, lifestyle changes, medication, minimally invasive treatment, or surgery is appropriate. The right diagnosis is the first step toward the right treatment.</p>
+
+    `,
+  },
+  {
+    id: 1790055176947,
+    doctorSlug: 'sravan-reddy-p',
+    slug: 'blood-in-urine-hematuria-causes-diagnosis-and-when',
+    title: `Blood in Urine (Hematuria): Causes, Diagnosis and When to See a Urologist`,
+    excerpt: `Blood in urine, medically known as hematuria, can be alarming. It may occur due to common conditions such as urinary tract infections (UTIs) or kidney stones, but it can also be associated with problems involving the kidneys, bladder, prostate, or urinary tract. Because the cause varies between individuals, unexplained blood in urine should not be ignored.`,
+    category: 'Urology',
+    date: '111 Sep 2026',
+    readTime: '4 min read',
+    image: '/images/doctor-blogs/p-sravan-reddy-blog-4.jpg',
+    content: `
+<p>Blood in urine, medically known as hematuria, can be alarming. It may occur due to common conditions such as urinary tract infections (UTIs) or kidney stones, but it can also be associated with problems involving the kidneys, bladder, prostate, or urinary tract. Because the cause varies between individuals, unexplained blood in urine should not be ignored.</p>
+<p>Dr. Sravan Reddy P – MBBS, DNB (General Surgery), MCh (Urology), Consultant Urologist, provides specialist evaluation and management for hematuria and other urological conditions.</p>
+<h3>What Is Hematuria?</h3>
+<p>Hematuria means blood or red blood cells are present in urine. Gross hematuria is visible, causing urine to appear pink, red, brown, or tea-colored. Microscopic hematuria cannot be seen but is detected through urine testing. Both may require medical assessment depending on symptoms, age, medical history, and risk factors.</p>
+<h3>Common Causes of Blood in Urine</h3>
+<p>Hematuria can result from conditions affecting different parts of the urinary system. Common causes include:</p>
+<h3>* Urinary tract infections</h3>
+<h3>* Kidney or bladder stones</h3>
+<h3>* Prostate enlargement</h3>
+<h3>* Kidney disease</h3>
+<h3>* Urinary tract injury</h3>
+<h3>* Certain medications</h3>
+<h3>* Strenuous physical activity</h3>
+<h3>* Some urinary tract cancers</h3>
+<p>UTIs may cause blood along with burning, urgency, frequent urination, or fever. Kidney stones can irritate the urinary tract and cause bleeding, often with severe side or back pain.</p>
+<h3>Prostate-Related Hematuria</h3>
+<p>In men, prostate conditions may contribute to urinary symptoms and occasionally bleeding. Benign prostatic hyperplasia (BPH) can cause a weak urine stream, difficulty starting urination, frequent nighttime urination, urgency, and incomplete bladder emptying. Men with blood in urine and changing urinary patterns should undergo appropriate urological evaluation.</p>
+<h3>When Is Hematuria Concerning?</h3>
+<p>Not every episode indicates a serious disease, but unexplained or painless visible blood requires attention. Repeated hematuria, increasing age, smoking history, certain chemical exposures, recurrent urinary infections, and previous kidney or bladder problems may increase the need for detailed evaluation.</p>
+<p>The presence of these factors does not necessarily mean cancer is present. However, they can influence the investigations recommended by a urologist.</p>
+<h3>How Is Hematuria Diagnosed?</h3>
+<p>Diagnosis begins with medical history and physical examination. A doctor may ask about urine color, duration of bleeding, pain, urinary symptoms, infections, kidney stones, medications, smoking, previous procedures, and other health conditions.</p>
+<h3>Urine and Blood Tests</h3>
+<p>Urine testing can confirm blood and identify infection, protein, or other abnormalities. A urine culture may be recommended when infection is suspected. Blood tests may help assess kidney function and identify other abnormalities.</p>
+<h3>Imaging and Cystoscopy</h3>
+<p>Ultrasound can examine the kidneys and urinary tract. CT imaging may provide more detailed information when appropriate. In selected patients, cystoscopy may be recommended to examine the urethra and bladder for abnormalities. The tests required depend on individual symptoms and risk factors.</p>
+<h3>Treatment for Blood in Urine</h3>
+<p>Hematuria is a symptom rather than a disease, so treatment focuses on the underlying cause. UTIs may improve with appropriate treatment. Kidney stones may be managed with observation, medication, or minimally invasive procedures depending on their size and location.</p>
+<p>If prostate enlargement is contributing to urinary problems, treatment focuses on managing the prostate condition. Kidney disease and other urinary disorders require individualized treatment based on the diagnosis.</p>
+<h3>Blood Clots and Heavy Bleeding</h3>
+<p>Significant urinary bleeding can produce blood clots. Large clots may block urine flow and make urination difficult or impossible. Heavy bleeding, large clots, or inability to pass urine requires prompt medical attention.</p>
+<p>People taking blood-thinning medicines should not stop prescribed medication without medical advice. A doctor should determine whether medication is contributing to the bleeding and whether any changes are necessary.</p>
+<h3>When Should You See a Urologist?</h3>
+<p>Any unexplained visible blood in urine should be discussed with a healthcare professional. Prompt assessment is particularly important when hematuria occurs with severe abdominal, back, or side pain, fever, chills, blood clots, difficulty urinating, persistent vomiting, dizziness, weakness, or severe urinary symptoms.</p>
+<h3>Conclusion</h3>
+<p>Blood in urine can result from infections, kidney stones, prostate conditions, kidney disorders, medications, or other urinary tract problems. Although some causes are easily treatable, unexplained, recurrent, or painless hematuria should be properly evaluated.</p>
+<p>Appropriate urine tests, blood tests, imaging, and cystoscopy may help identify the source of bleeding. Early evaluation allows treatable conditions to be managed appropriately and helps identify more serious problems when present. If you notice blood in your urine, particularly when it is visible or unexplained, seek professional urological evaluation rather than ignoring the symptom.</p>
+
+    `,
+  },
+  {
+    id: 1790055176948,
+    doctorSlug: 'sravan-reddy-p',
+    slug: 'urinary-incontinence-types-causes-symptoms-and-tre',
+    title: `Urinary Incontinence: Types, Causes, Symptoms and Treatment Options`,
+    excerpt: `Urinary incontinence is the involuntary leakage of urine and is a common urinary problem affecting both men and women. Leakage may occur while coughing or sneezing, or frequently enough to affect daily activities. Although it becomes more common with age, urinary incontinence is not an unavoidable part of aging.`,
+    category: 'Urology',
+    date: '112 Sep 2026',
+    readTime: '4 min read',
+    image: '/images/doctor-blogs/p-sravan-reddy-blog-5.jpg',
+    content: `
+<p>Urinary incontinence is the involuntary leakage of urine and is a common urinary problem affecting both men and women. Leakage may occur while coughing or sneezing, or frequently enough to affect daily activities. Although it becomes more common with age, urinary incontinence is not an unavoidable part of aging.</p>
+<p>It may develop because of pelvic floor weakness, bladder problems, prostate conditions, infections, neurological disorders, medications, obesity, constipation, or surgery. Treatment depends on the type and underlying cause.</p>
+<p>Dr. Sravan Reddy P, MBBS, DNB (General Surgery), MCh (Urology), Consultant Urologist, provides evaluation and management for urinary incontinence, bladder disorders, prostate-related urinary problems, and other urological conditions.</p>
+<h3>What Is Urinary Incontinence?</h3>
+<p>Urinary incontinence occurs when a person loses control over urine release, resulting in involuntary leakage. Normal bladder control depends on the bladder, sphincters, pelvic floor muscles, nerves, and brain. Problems affecting any of these systems can result in leakage. Incontinence may be temporary, such as during an infection, or persistent because of bladder, prostate, pelvic floor, or neurological problems.</p>
+<h3>Types of Urinary Incontinence</h3>
+<p>Stress incontinence occurs when urine leaks because pressure on the bladder increases. Coughing, sneezing, laughing, running, exercising, lifting, or changing position may trigger leakage. It is common in women after pregnancy or childbirth and may also affect men after certain prostate procedures.</p>
+<p>Urge incontinence causes a sudden, strong need to urinate followed by leakage. It is often associated with overactive bladder and may cause frequent daytime urination or increased nighttime urination.</p>
+<p>Overflow incontinence occurs when the bladder cannot empty completely and becomes overly full. Frequent small leaks or continuous dribbling may occur. Prostate enlargement, urinary obstruction, nerve disorders, or bladder muscle problems can contribute.</p>
+<p>Functional incontinence occurs when mobility, arthritis, environmental barriers, or cognitive difficulties make reaching the toilet difficult. Mixed incontinence involves symptoms of more than one type, such as stress and urge leakage.</p>
+<h3>Causes and Symptoms</h3>
+<p>Common causes include pregnancy and childbirth, weak pelvic floor muscles, prostate enlargement or surgery, urinary infections, overactive bladder, diabetes, neurological conditions, obesity, chronic constipation, medications, aging-related changes, and previous pelvic surgery.</p>
+<p>The main symptom is involuntary urine leakage. Other symptoms can include urgency, frequent urination, nighttime urination, weak urine stream, difficulty starting urination, incomplete bladder emptying, burning during urination, recurrent infections, and continuous dribbling.</p>
+<h3>Diagnosis</h3>
+<p>Diagnosis usually begins with medical history and discussion of when leakage occurs, its frequency, triggers, urgency, nighttime urination, bladder-emptying problems, previous surgery, infections, and medications. Urine testing may identify infection or blood. Ultrasound or a bladder scan can check whether urine remains after urination.</p>
+<p>A bladder diary records fluid intake, urination, urgency, and leakage patterns. Selected patients may need urodynamic testing to assess bladder storage and emptying.</p>
+<h3>Treatment Options</h3>
+<p>Treatment depends on the type, cause, severity, overall health, and previous treatment. Lifestyle measures may include maintaining a healthy weight, managing constipation, reviewing fluid intake, and reducing beverages that worsen urgency, such as caffeine. Excessive fluid restriction should be avoided without medical advice.</p>
+<p>Bladder training can help some people manage urgency and frequency. Pelvic floor muscle exercises may improve bladder control, particularly for suitable patients with stress incontinence. Correct technique and consistent practice are important.</p>
+<p>Medications may be recommended for selected patients with urge incontinence or overactive bladder. When conservative measures or medication are insufficient, specialized procedures or surgery may be considered based on the underlying condition.</p>
+<h3>When to Consult a Urologist</h3>
+<p>Persistent or worsening leakage should be evaluated, especially when accompanied by blood in the urine, recurrent infections, pain, difficulty passing urine, weak stream, severe urgency, or incomplete emptying. Sudden bladder-control loss with new weakness, numbness, or difficulty walking requires urgent medical assessment.</p>
+<h3>Conclusion</h3>
+<p>Urinary incontinence can affect confidence and quality of life, but management is often possible. Identifying the type and underlying cause helps guide appropriate treatment. If leakage is persistent or interfering with daily activities, timely urological evaluation can help determine the cause and suitable treatment options.</p>
+
+    `,
+  }
 ];

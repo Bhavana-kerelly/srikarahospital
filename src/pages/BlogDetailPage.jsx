@@ -162,12 +162,12 @@ export function BlogDetailPage() {
               </div>
             </header>
 
-            {/* ── PROMINENT FEATURED HERO IMAGE (16:9 Perfect Fit) ── */}
-            <div className="mb-14 rounded-3xl overflow-hidden shadow-xl border border-slate-200/80 bg-slate-100 w-full aspect-video">
+            {/* ── PROMINENT FEATURED HERO IMAGE (Perfect Fit) ── */}
+            <div className="mb-14 rounded-3xl overflow-hidden shadow-xl border border-slate-200/80 bg-slate-100 w-full flex justify-center">
               <img
                 src={blog.image}
                 alt={blog.title}
-                className="w-full h-full object-cover object-center"
+                className="w-full h-auto max-h-[600px] object-contain object-center"
                 loading="eager"
               />
             </div>

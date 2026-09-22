@@ -362,7 +362,7 @@ export const ALL_DOCTORS = [
     label: "Urology Specialist",
     sub: "MBBS, MD",
     rating: "4.9", exp: "10+ Years",
-    image: assetUrl("doctors/p-sravan-reddy.png"),
+    image: assetUrl("doctors/sravan-reddy-p.png"),
     fallback: dummy("p-sravan-reddy"),
     tagline: "Expert Urology Care at Lakdikapul.",
     about: "Dr. P Sravan Reddy is a leading specialist in Urology at Srikara Hospitals, Lakdikapul.",

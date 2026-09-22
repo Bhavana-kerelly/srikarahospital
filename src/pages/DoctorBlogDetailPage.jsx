@@ -1,5 +1,5 @@
 import React from 'react'
-import { useParams, useNavigate } from 'react-router-dom'
+import { useParams, useNavigate, Link } from 'react-router-dom'
 import { Helmet } from 'react-helmet-async'
 import { motion } from 'framer-motion'
 import { ArrowLeft, Clock, Calendar, ChevronRight } from 'lucide-react'
@@ -30,6 +30,7 @@ export function DoctorBlogDetailPage() {
   }
 
   const { accent, accentLight } = ACCENT_MAP[doctor.specialtyId] || { accent: '#8B1A4A', accentLight: '#fdf2f8' }
+  const otherBlogs = DOCTOR_BLOGS.filter(b => b.doctorSlug === slug && b.slug !== blogSlug).slice(0, 3)
 
   return (
     <>
@@ -75,11 +76,11 @@ export function DoctorBlogDetailPage() {
             </div>
             
             {/* Hero Image */}
-            <div className="w-full aspect-[21/9] rounded-3xl overflow-hidden mb-12 shadow-md">
+            <div className="w-full rounded-3xl overflow-hidden mb-12 shadow-md bg-slate-100 flex justify-center">
                <img 
                  src={blog.image} 
                  alt={blog.title} 
-                 className="w-full h-full object-cover" 
+                 className="w-full h-auto max-h-[600px] object-contain" 
                  onError={(e) => { e.target.src = 'https://via.placeholder.com/1200x600?text=Article+Image' }}
                />
             </div>
@@ -91,6 +92,52 @@ export function DoctorBlogDetailPage() {
             />
           </motion.div>
           
+          {/* Related Blogs */}
+          {otherBlogs.length > 0 && (
+            <div className="mb-12">
+              <h3 className="text-2xl font-bold text-[#1A202C] mb-6 flex items-center gap-3">
+                <div className="w-1 h-6 rounded-full" style={{ background: accent }} />
+                More Articles by {doctor.name}
+              </h3>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                {otherBlogs.map(otherBlog => (
+                  <Link 
+                    key={otherBlog.id} 
+                    to={`/doctors/${doctor.slug}/blog/${otherBlog.slug}`}
+                    className="group border border-[#E2E8F0] rounded-2xl overflow-hidden hover:shadow-lg transition-all duration-300 flex flex-col bg-white"
+                  >
+                    <div className="aspect-[16/9] w-full overflow-hidden relative bg-[#F8FAFC] flex items-center justify-center">
+                      <div className="absolute top-3 left-3 z-10 bg-white/90 backdrop-blur-sm px-2.5 py-1 rounded-full text-[10px] font-bold shadow-sm" style={{ color: accent }}>
+                        {otherBlog.category}
+                      </div>
+                      <img 
+                        src={otherBlog.image} 
+                        alt={otherBlog.title} 
+                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                        onError={(e) => { e.target.src = 'https://via.placeholder.com/400x300?text=No+Image' }}
+                      />
+                    </div>
+                    <div className="p-4 flex-1 flex flex-col">
+                      <div className="flex items-center gap-3 text-[10px] font-semibold text-[#94A3B8] mb-2 uppercase tracking-wider">
+                        <span className="flex items-center gap-1"><Calendar size={10} /> {otherBlog.date}</span>
+                        <span className="flex items-center gap-1"><Clock size={10} /> {otherBlog.readTime}</span>
+                      </div>
+                      <h4 className="font-bold text-sm text-[#1A202C] mb-2 group-hover:text-[#8B1A4A] transition-colors line-clamp-2">
+                        {otherBlog.title}
+                      </h4>
+                      <p className="text-[#475569] text-xs line-clamp-2 mb-3 flex-1">
+                        {otherBlog.excerpt}
+                      </p>
+                      <div className="text-xs font-bold flex items-center gap-1.5 mt-auto" style={{ color: accent }}>
+                        Read Article <span className="group-hover:translate-x-1 transition-transform">→</span>
+                      </div>
+                    </div>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
+
           <div className="border-t border-[#E2E8F0] pt-8 flex justify-between items-center">
              <button onClick={() => navigate(`/doctors/${slug}`)} className="flex items-center gap-2 text-sm font-bold text-[#64748B] hover:text-[#1A202C] transition-colors">
                <ArrowLeft size={16} /> Back to Doctor Profile
